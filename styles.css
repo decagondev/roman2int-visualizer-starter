@@ -1,0 +1,55 @@
+/* TODO: Add custom styles for Roman to Integer Visualizer */
+
+/* TODO: Create smooth animations using @keyframes */
+/* You'll need animations for:
+ * - slideIn: elements fading in from top
+ * - pulse: scale animation for emphasis
+ * - highlight: glowing effect for active elements
+ * - fadeIn: simple opacity transition
+ */
+
+/* TODO: Style the .roman-char class */
+/* This is for the character boxes. Include:
+ * - slideIn animation
+ * - smooth transitions
+ * - Active state styling (when being processed)
+ * - Processed state styling (after being processed)
+ * - Add state styling (green theme)
+ * - Subtract state styling (red theme)
+ */
+
+/* TODO: Style the .step-item class */
+/* This is for history items. Include:
+ * - fadeIn animation
+ * - Add state (green background, green left border)
+ * - Subtract state (red background, red left border)
+ */
+
+/* TODO: Style the scrollbar for #stepHistory */
+/* Make it look nice with custom scrollbar styling */
+
+/* TODO: Add smooth transitions for #runningTotal */
+/* This will make the number updates look smooth */
+
+/* TODO: Style the .legend-item class */
+/* Include hover effects for better interactivity */
+
+/* TODO: Add animation for #errorMessage */
+/* Use slideIn animation */
+
+/* TODO: Add focus effects for input fields */
+/* Include transform and box-shadow on focus */
+
+/* TODO: Add hover and active effects for buttons */
+/* Include transform effects for better UX */
+
+/* 
+ * HINT: Look at the HTML structure to understand what elements need styling.
+ * Use the class names and IDs from the HTML file.
+ * 
+ * Color suggestions:
+ * - Green (add): #10b981, #d1fae5
+ * - Red (subtract): #ef4444, #fee2e2
+ * - Blue (active): rgba(59, 130, 246, 0.7)
+ */
+
